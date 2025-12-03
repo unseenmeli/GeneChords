@@ -22,8 +22,8 @@ export default function Page() {
   }, [user, isLoading]);
 
   return (
-    <View className="flex-1 justify-center items-center bg-white">
-      <ActivityIndicator size="large" />
+    <View className="flex-1 justify-center items-center" style={{ backgroundColor: '#0F0F0F' }}>
+      <ActivityIndicator size="large" color="#8B5CF6" />
     </View>
   );
 }
