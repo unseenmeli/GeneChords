@@ -1,6 +1,6 @@
 {
   "expo": {
-    "scheme": "acme",
+    "scheme": "genechords",
     "userInterfaceStyle": "automatic",
     "orientation": "default",
     "web": {
@@ -9,7 +9,7 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "FuzzyV2",
-    "slug": "FuzzyV2"
+    "name": "GeneChords",
+    "slug": "genechords"
   }
 }

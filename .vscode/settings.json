@@ -1,0 +1,18 @@
+{
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "style"
+  ],
+  "tailwindCSS.experimental.classRegex": [
+    ["className:\\s*['\"`]([^'\"`]*)['\"`]"]
+  ],
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
