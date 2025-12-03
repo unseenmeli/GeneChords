@@ -6,9 +6,23 @@
 
 @layer theme {
   @theme {
-    /* Fonts */
     --font-rounded: "SF Pro Rounded", "Hiragino Maru Gothic ProN", Meiryo,
       "MS PGothic", sans-serif;
+
+    --color-bg-primary: #0F0F0F;
+    --color-bg-secondary: #1A1A1A;
+    --color-bg-tertiary: #262626;
+
+    --color-text-primary: #FFFFFF;
+    --color-text-secondary: #A3A3A3;
+    --color-text-tertiary: #737373;
+
+    --color-accent-purple: #8B5CF6;
+    --color-accent-purple-dark: #7C3AED;
+    --color-accent-purple-light: #A78BFA;
+    --color-accent-green: #10B981;
+    --color-accent-green-dark: #059669;
+    --color-accent-green-light: #34D399;
   }
 }
 
